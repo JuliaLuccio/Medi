@@ -237,6 +237,8 @@ body {
 }
 .innovations__beauty-aesthetics-text {
     color: #b3b3b3;
+    text-align: left;
+    margin-left: 15px;
 }
 .innovations__beauty-aesthetics-patent-img {
     grid-area: 2/2/6/4;
